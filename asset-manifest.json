@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/envoy-web-app/static/css/main.954ee205.css",
+    "main.js": "/envoy-web-app/static/js/main.a2ae8f80.js",
+    "static/media/envoy_background.jpg": "/envoy-web-app/static/media/envoy_background.b29ddba0bad94ccf9cb1.jpg",
+    "static/media/profile-icon.png": "/envoy-web-app/static/media/profile-icon.ec9d20d007249a9ce21c.png",
+    "static/media/wip.svg": "/envoy-web-app/static/media/wip.c9c1c1e935c4eb6eede8.svg",
+    "index.html": "/envoy-web-app/index.html",
+    "main.954ee205.css.map": "/envoy-web-app/static/css/main.954ee205.css.map",
+    "main.a2ae8f80.js.map": "/envoy-web-app/static/js/main.a2ae8f80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.954ee205.css",
+    "static/js/main.a2ae8f80.js"
+  ]
+}
